@@ -1,0 +1,622 @@
+import
+c as o,u as S,j as e,z as D,g as H,b as I,r as b,p as L,L as r,S as q,X as F,i as P
+from"./index-SnmwPgx3.js"
+import
+P as R,D as V
+from"./package-check-DpOTnzNK.js"
+
+const B=[["path",
+d:"M5 12h14",key:"1ays0h"
+],["path",
+d:"m12 5 7 7-7 7",key:"xquz4c"
+]],C=o("arrow-right",B)
+
+const W=[["path",
+d:"M17 19a1 1 0 0 1-1-1v-2a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2v2a1 1 0 0 1-1 1z",key:"trhst0"
+],["path",
+d:"M17 21v-2",key:"ds4u3f"
+],["path",
+d:"M19 14V6.5a1 1 0 0 0-7 0v11a1 1 0 0 1-7 0V10",key:"1mo9zo"
+],["path",
+d:"M21 21v-2",key:"eo0ou"
+],["path",
+d:"M3 5V3",key:"1k5hjh"
+],["path",
+d:"M4 10a2 2 0 0 1-2-2V6a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2a2 2 0 0 1-2 2z",key:"1dd30t"
+],["path",
+d:"M7 5V3",key:"1t1388"
+]],Y=o("cable",W)
+
+const X=[["path",
+d:"m6 9 6 6 6-6",key:"qrunsl"
+]],O=o("chevron-down",X)
+
+const G=[["path",
+d:"m18 15-6-6-6 6",key:"153udz"
+]],K=o("chevron-up",G)
+
+const Q=[["path",
+d:"M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z",key:"1jg4f8"
+]],J=o("facebook",Q)
+
+const Z=[["path",
+d:"M18 5a2 2 0 0 1 2 2v8.526a2 2 0 0 0 .212.897l1.068 2.127a1 1 0 0 1-.9 1.45H3.62a1 1 0 0 1-.9-1.45l1.068-2.127A2 2 0 0 0 4 15.526V7a2 2 0 0 1 2-2z",key:"1pdavp"
+],["path",
+d:"M20.054 15.987H3.946",key:"14rxg9"
+]],ee=o("laptop",Z)
+
+const te=[["path",
+d:"M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z",key:"zw3jo"
+],["path",
+d:"M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12",key:"1wduqc"
+],["path",
+d:"M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17",key:"kqbvx6"
+]],se=o("layers",te)
+
+const ae=[["path",
+d:"m16 17 5-5-5-5",key:"1bji2h"
+],["path",
+d:"M21 12H9",key:"dn1m92"
+],["path",
+d:"M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4",key:"1uf3rs"
+]],re=o("log-out",ae)
+
+const oe=[["path",
+d:"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7",key:"132q7q"
+],["rect",
+x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"
+]],ne=o("mail",oe)
+
+const le=[["path",
+d:"M4 5h16",key:"1tepv9"
+],["path",
+d:"M4 12h16",key:"1lakjw"
+],["path",
+d:"M4 19h16",key:"1djgab"
+]],ce=o("menu",le)
+
+const ie=[["rect",
+width:"20",height:"14",x:"2",y:"3",rx:"2",key:"48i651"
+],["line",
+x1:"8",x2:"16",y1:"21",y2:"21",key:"1svkeh"
+],["line",
+x1:"12",x2:"12",y1:"17",y2:"21",key:"vw1qmm"
+]],$=o("monitor",ie)
+
+const de=[["circle",
+cx:"8",cy:"18",r:"4",key:"1fc0mg"
+],["path",
+d:"M12 18V2l7 4",key:"g04rme"
+]],xe=o("music-2",de)
+
+const me=[["path",
+d:"M13.832 16.568a1 1 0 0 0 1.213-.303l.355-.465A2 2 0 0 1 17 15h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2A18 18 0 0 1 2 4a2 2 0 0 1 2-2h3a2 2 0 0 1 2 2v3a2 2 0 0 1-.8 1.6l-.468.351a1 1 0 0 0-.292 1.233 14 14 0 0 0 6.392 6.384",key:"9njp5v"
+]],pe=o("phone",me)
+
+const he=[["path",
+d:"M11.525 2.295a.53.53 0 0 1 .95 0l2.31 4.679a2.123 2.123 0 0 0 1.595 1.16l5.166.756a.53.53 0 0 1 .294.904l-3.736 3.638a2.123 2.123 0 0 0-.611 1.878l.882 5.14a.53.53 0 0 1-.771.56l-4.618-2.428a2.122 2.122 0 0 0-1.973 0L6.396 21.01a.53.53 0 0 1-.77-.56l.881-5.139a2.122 2.122 0 0 0-.611-1.879L2.16 9.795a.53.53 0 0 1 .294-.906l5.165-.755a2.122 2.122 0 0 0 1.597-1.16z",key:"r04s7s"
+]],ue=o("star",he)
+
+const ge=[["circle",
+cx:"12",cy:"8",r:"5",key:"1hypcn"
+],["path",
+d:"M20 21a8 8 0 0 0-16 0",key:"rfgkzh"
+]],be=o("user-round",ge)
+
+const fe=[["path",
+d:"M19 21v-2a4 4 0 0 0-4-4H9a4 4 0 0 0-4 4v2",key:"975kel"
+],["circle",
+cx:"12",cy:"7",r:"4",key:"17ys0d"
+]],je=o("user",fe)
+
+const Ne=[["path",
+d:"M2.5 17a24.12 24.12 0 0 1 0-10 2 2 0 0 1 1.4-1.4 49.56 49.56 0 0 1 16.2 0A2 2 0 0 1 21.5 7a24.12 24.12 0 0 1 0 10 2 2 0 0 1-1.4 1.4 49.55 49.55 0 0 1-16.2 0A2 2 0 0 1 2.5 17",key:"1q2vi4"
+],["path",
+d:"m10 15 5-3-5-3z",key:"1jp15x"
+]],ye=o("youtube",Ne)
+
+function ve()
+const
+t:a
+=S(),t=[a.ann.a,a.ann.b,a.ann.c],m=[...t,...t,...t,...t]
+return e.jsx("div",
+className:"border-b border-border/40 bg-background overflow-hidden",children:e.jsx("div",
+className:"flex marquee-track whitespace-nowrap py-2.5 text-xs tracking-widest uppercase text-foreground/80",children:[...m,...m].map((p,l)=>e.jsx("span",
+className:"px-8 shrink-0",children:p
+,l))
+)
+)
+
+function ke(a,t)
+
+const m=a.specs.find(c=>c.label.en==="Screen size")?.value??"—",p=a.specs.find(c=>c.label.en==="Resolution")?.value??"—",l=a.specs.find(c=>c.label.en==="Weight")?.value??"—",h=["a6","s13","s15-plus"].includes(a.slug)
+return[
+label:t==="ja"?"接続":"Connection",value:h?t==="ja"?"映像出力 1系統":"1 video path":t==="ja"?"映像出力 2系統":"2 video paths",note:"USB-C / HDMI",icon:Y
+,
+label:t==="ja"?"画面サイズ":"Display size",value:m,note:t==="ja"?"IPSパネル":"IPS panels",icon:$
+,
+label:t==="ja"?"解像度":"Resolution",value:p.split(" (")[0],note:"60 Hz",icon:se
+,
+label:t==="ja"?"対応OS":"Systems",value:"macOS & Windows",note:t==="ja"?"ノートPC対応":"Laptop compatible",icon:ee
+,
+label:t==="ja"?"セットアップ":"Setup",value:h?t==="ja"?"ドライバー不要*":"Driver-free*":t==="ja"?"必要に応じてH5":"H5 if required",note:t==="ja"?"機種により異なります":"Model dependent",icon:V
+,
+label:t==="ja"?"携帯性":"Portable build",value:l,note:t==="ja"?"折りたたみ式":"Foldable design",icon:R
+]
+
+function we()
+const
+t:a,lang:t,setLang:m
+=S(),
+config:p
+=D(),
+cartCount:l,setCartOpen:h
+=H(),
+currentUser:c,isAuthenticated:_,logout:T
+=I(),[y,i]=b.useState(!1),[v,u]=b.useState(!1),[g,n]=b.useState(!1),[f,k]=b.useState("triple"),M=b.useRef(null),d=t==="ja"?
+products:"製品",dual:"デュアル拡張ディスプレイ",triple:"トリプル拡張ディスプレイ",quad:"クアッド拡張ディスプレイ",popular:"製品詳細",shopAll:"すべて見る",comingSoon:"近日公開",comingSoonBody:"4画面ワークスペース向けの新製品を準備中です。"
+:
+products:"Products",dual:"Dual Extended Display",triple:"Triple Extended Display",quad:"Quad Extended Display",popular:"Product details",shopAll:"Shop all products",comingSoon:"Coming soon",comingSoonBody:"A new four-display workspace product is being prepared."
+,z=b.useMemo(()=>
+
+const s=new Set(["a6","s13","s15-plus"])
+return f==="dual"?L.filter(x=>s.has(x.slug)):f==="triple"?L.filter(x=>!s.has(x.slug)):[]
+,[f])
+b.useEffect(()=>
+if(!g&&!v)return
+
+const s=j=>
+M.current?.contains(j.target)||(n(!1),u(!1))
+,x=j=>
+j.key==="Escape"&&(n(!1),u(!1))
+
+return document.addEventListener("pointerdown",s),document.addEventListener("keydown",x),()=>
+document.removeEventListener("pointerdown",s),document.removeEventListener("keydown",x)
+
+,[v,g])
+
+const A=c?.name.split(" ").map(s=>s[0]).join("").slice(0,2).toUpperCase()||"AK",E=()=>
+T(),u(!1),i(!1)
+,w=t==="ja"?"お問い合わせ":"Contact Us"
+return e.jsxs("header",
+ref:M,className:`sticky top-0 z-50 border-b transition-colors duration-200 $
+g?"border-transparent bg-background":"border-border/40 bg-background/90 backdrop-blur-xl"
+`,children:[e.jsxs("div",
+className:"mx-auto flex h-20 max-w-[1440px] items-center justify-between gap-2 px-4 lg:gap-5 lg:px-8 xl:px-10",children:[e.jsxs(r,
+to:"/",onClick:()=>n(!1),className:"shrink-0 font-serif text-xl font-bold tracking-tight shadow-none lg:text-2xl",children:["Any",e.jsx("span",
+className:"text-primary",children:"king"
+)]
+),e.jsxs("nav",
+className:"hidden items-center gap-0 text-[11px] md:flex lg:gap-1 lg:text-sm",children:[e.jsxs("button",
+type:"button",onClick:()=>
+n(s=>!s),u(!1)
+,className:`inline-flex h-10 items-center gap-1 rounded-full px-2 font-medium transition lg:h-11 lg:gap-1.5 lg:px-4 $
+g?"bg-foreground text-background":"text-foreground/80 hover:bg-muted hover:text-foreground"
+`,"aria-expanded":g,"aria-controls":"products-mega-menu",children:[d.products,e.jsx(O,
+className:`h-3.5 w-3.5 transition-transform $
+g?"rotate-180":""
+`
+)]
+),e.jsx("a",
+href:p.amazonStoreUrl,target:"_blank",rel:"noopener noreferrer",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:"Amazon"
+),e.jsx("a",
+href:"/help-center#software-center",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:t==="ja"?"ソフトウェア":"Software"
+),e.jsx(r,
+to:"/reviews",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:a.nav.reviews
+),e.jsx(r,
+to:"/help-center",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:a.nav.help
+),e.jsx(r,
+to:"/about",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:a.nav.about
+),e.jsx(r,
+to:"/contact",onClick:()=>n(!1),className:"rounded-full px-1.5 py-3 text-foreground/80 transition hover:bg-muted hover:text-foreground lg:px-3.5",children:w
+)]
+),e.jsxs("div",
+className:"flex shrink-0 items-center gap-1 lg:gap-3",children:[e.jsxs("div",
+className:"hidden items-center gap-1 rounded-full border border-border px-1 py-0.5 text-xs lg:flex",children:[e.jsx("button",
+onClick:()=>m("en"),className:`px-2 py-1 rounded-full transition $
+t==="en"?"bg-primary text-primary-foreground":"text-foreground/70 hover:text-foreground"
+`,children:"EN"
+),e.jsx("button",
+onClick:()=>m("ja"),className:`px-2 py-1 rounded-full transition $
+t==="ja"?"bg-primary text-primary-foreground":"text-foreground/70 hover:text-foreground"
+`,children:"日本語"
+)]
+),_&&c?e.jsxs("div",
+className:"relative hidden sm:block",children:[e.jsxs("button",
+type:"button",onClick:()=>
+u(s=>!s),n(!1)
+,className:"inline-flex items-center gap-2 rounded-full border border-border bg-background/80 py-1 pl-1 pr-3 text-sm shadow-sm transition hover:border-primary/50 hover:text-primary","aria-label":t==="ja"?"アカウントメニュー":"Account menu",children:[e.jsx("span",
+className:"flex h-8 w-8 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground",children:A
+),e.jsx("span",
+className:"hidden max-w-28 truncate lg:inline",children:c.name
+),e.jsx(O,
+className:"h-4 w-4"
+)]
+),v&&e.jsxs("div",
+className:"absolute right-0 mt-3 w-64 rounded-2xl border border-border bg-background p-2 shadow-2xl",children:[e.jsxs("div",
+className:"border-b border-border px-3 py-3",children:[e.jsx("p",
+className:"text-sm font-semibold text-foreground",children:c.name
+),e.jsx("p",
+className:"mt-1 truncate text-xs text-muted-foreground",children:c.email
+)]
+),e.jsxs(r,
+to:"/account",onClick:()=>u(!1),className:"mt-2 flex items-center gap-2 rounded-xl px-3 py-2 text-sm text-foreground/80 transition hover:bg-accent hover:text-primary",children:[e.jsx(be,
+className:"h-4 w-4"
+),t==="ja"?"マイアカウント":"Personal Center"]
+),e.jsxs("a",
+href:"/account?tab=orders",onClick:()=>u(!1),className:"flex items-center gap-2 rounded-xl px-3 py-2 text-sm text-foreground/80 transition hover:bg-accent hover:text-primary",children:[e.jsx(R,
+className:"h-4 w-4"
+),t==="ja"?"注文履歴":"My Orders"]
+),e.jsxs("button",
+type:"button",onClick:E,className:"flex w-full items-center gap-2 rounded-xl px-3 py-2 text-left text-sm text-foreground/80 transition hover:bg-accent hover:text-primary",children:[e.jsx(re,
+className:"h-4 w-4"
+),t==="ja"?"ログアウト":"Sign out"]
+)]
+)]
+):e.jsxs(r,
+to:"/login",className:"inline-flex items-center gap-1.5 p-2 text-sm hover:text-primary transition","aria-label":t==="ja"?"ログイン":"Login",children:[e.jsx(je,
+className:"w-5 h-5"
+),e.jsx("span",
+className:"hidden lg:inline",children:a.nav.login
+)]
+),e.jsxs("button",
+className:"p-2 hover:text-primary transition relative","aria-label":t==="ja"?"カート":"Cart",onClick:()=>
+h(!0),n(!1)
+,children:[e.jsx(q,
+className:"w-5 h-5"
+),l>0&&e.jsx("span",
+className:"absolute -top-1 -right-1 w-4 h-4 text-[10px] font-bold bg-primary text-primary-foreground rounded-full flex items-center justify-center",children:l
+)]
+),e.jsx("button",
+className:"p-2 md:hidden",onClick:()=>
+i(!y),n(!1)
+,"aria-label":t==="ja"?"メニュー":"Menu",children:y?e.jsx(F,
+className:"w-5 h-5"
+):e.jsx(ce,
+className:"w-5 h-5"
+)
+)]
+)]
+),g&&e.jsx("div",
+id:"products-mega-menu",className:"absolute left-0 top-full hidden w-full overflow-hidden rounded-b-[2rem] border-t border-border/50 bg-background shadow-[0_28px_70px_rgba(15,23,42,0.18)] animate-in fade-in slide-in-from-top-2 duration-200 md:block",children:e.jsxs("div",
+className:"mx-auto grid max-h-[calc(100vh-5rem)] max-w-[1440px] grid-cols-[160px_minmax(0,1fr)] gap-5 overflow-y-auto px-5 py-6 lg:grid-cols-[210px_minmax(0,1fr)] lg:gap-7 lg:px-8 xl:grid-cols-[240px_minmax(0,1fr)] xl:px-10 xl:py-8",children:[e.jsxs("div",
+className:"flex min-h-[440px] flex-col border-r border-border/70 pr-4 lg:pr-7",children:[e.jsx("p",
+className:"mb-5 text-xs font-semibold uppercase tracking-[0.18em] text-muted-foreground",children:d.products
+),e.jsx("div",
+className:"space-y-1",children:[["dual",d.dual],["triple",d.triple],["quad",d.quad]].map(([s,x])=>e.jsxs("button",
+type:"button",onMouseEnter:()=>k(s),onFocus:()=>k(s),onClick:()=>k(s),className:`flex w-full items-center justify-between gap-2 rounded-xl px-3 py-3 text-left text-sm font-bold leading-snug transition lg:text-base xl:text-lg $
+f===s?"bg-foreground text-background":"text-foreground/55 hover:bg-muted hover:text-foreground"
+`,children:[x,e.jsx(C,
+className:"h-4 w-4"
+)]
+,s))
+),e.jsxs(r,
+to:"/products",onClick:()=>n(!1),className:"mt-auto flex items-center justify-between border-t border-border pt-5 text-sm font-bold hover:text-primary",children:[d.shopAll,e.jsx(C,
+className:"h-4 w-4"
+)]
+)]
+),e.jsxs("div",
+className:"min-w-0",children:[e.jsxs("div",
+className:"mb-5 flex items-center justify-between gap-4",children:[e.jsx("p",
+className:"text-xs font-semibold uppercase tracking-[0.18em] text-muted-foreground",children:d.popular
+),e.jsxs(r,
+to:"/products",onClick:()=>n(!1),className:"inline-flex items-center gap-2 text-sm font-bold hover:text-primary",children:[d.shopAll,e.jsx(C,
+className:"h-4 w-4"
+)]
+)]
+),f==="quad"?e.jsx("div",
+className:"flex min-h-[440px] items-center justify-center rounded-3xl border border-dashed border-border bg-[#f5f1ec] px-8 text-center",children:e.jsxs("div",
+className:"max-w-md",children:[e.jsx("span",
+className:"mx-auto flex h-14 w-14 items-center justify-center rounded-full bg-primary/15 text-primary",children:e.jsx($,
+className:"h-7 w-7"
+)
+),e.jsx("h3",
+className:"mt-5 text-2xl font-bold",children:d.comingSoon
+),e.jsx("p",
+className:"mt-3 leading-7 text-muted-foreground",children:d.comingSoonBody
+)]
+)
+):e.jsx("div",
+className:"grid grid-cols-1 gap-4 lg:grid-cols-2",children:z.map(s=>
+
+const x=Math.round((1-s.price/s.compareAt)*100),j=ke(s,t)
+return e.jsxs(r,
+to:"/products/$slug",params:
+slug:s.slug
+,onClick:()=>n(!1),className:"group overflow-hidden rounded-3xl border border-border/70 bg-[#f3eee8] transition hover:-translate-y-1 hover:shadow-xl",children:[e.jsxs("div",
+className:"relative aspect-[16/9] overflow-hidden bg-white",children:[e.jsx("img",
+src:s.images[0],alt:s.name,className:"h-full w-full object-contain p-3 transition duration-500 group-hover:scale-105"
+),x>0&&e.jsx("span",
+className:"absolute left-3 top-3 rounded-full bg-sale px-3 py-1.5 text-xs font-bold text-white",children:t==="ja"?`$
+x
+% OFF`:`Save $
+x
+%`
+),e.jsxs("span",
+className:"absolute right-3 top-3 inline-flex items-center gap-1 rounded-full bg-white/95 px-3 py-1.5 text-xs font-semibold shadow-sm",children:[e.jsx(ue,
+className:"h-3.5 w-3.5 fill-primary text-primary"
+),s.rating.toFixed(1)," · ",s.reviews]
+)]
+),e.jsxs("div",
+className:"p-4 lg:p-5",children:[e.jsxs("div",
+className:"flex items-start justify-between gap-3",children:[e.jsxs("div",
+children:[e.jsx("h3",
+className:"text-lg font-bold leading-tight group-hover:text-primary lg:text-xl",children:s.name.replace("Anyking ","")
+),e.jsx("p",
+className:"mt-1 line-clamp-1 text-xs text-muted-foreground",children:s.tagline[t]
+)]
+),e.jsxs("div",
+className:"shrink-0 text-right",children:[e.jsx("p",
+className:"font-bold text-sale",children:P(s.price,t)
+),e.jsx("p",
+className:"text-xs text-muted-foreground line-through",children:P(s.compareAt,t)
+)]
+)]
+),e.jsxs("div",
+className:"mt-3 flex items-center gap-2 text-xs font-medium",children:[e.jsx("span",
+children:t==="ja"?"カラー":"Colors"
+),e.jsx("span",
+className:"h-4 w-4 rounded-full border border-white bg-neutral-900 shadow"
+)]
+),e.jsx("div",
+className:"mt-4 grid grid-cols-2 border-l border-t border-border/70",children:j.map(N=>
+
+const U=N.icon
+return e.jsxs("div",
+className:"flex min-h-[72px] gap-2 border-b border-r border-border/70 p-2.5",children:[e.jsx(U,
+className:"mt-0.5 h-4 w-4 shrink-0"
+),e.jsxs("div",
+className:"min-w-0",children:[e.jsx("p",
+className:"text-[10px] font-semibold uppercase tracking-wide text-muted-foreground",children:N.label
+),e.jsx("p",
+className:"mt-0.5 text-xs font-semibold leading-tight",children:N.value
+),e.jsx("p",
+className:"mt-0.5 text-[10px] leading-tight text-muted-foreground",children:N.note
+)]
+)]
+,N.label)
+)
+)]
+)]
+,s.slug)
+)
+)]
+)]
+)
+),e.jsxs("div",
+className:"flex items-center gap-6 overflow-x-auto whitespace-nowrap border-t border-border/30 bg-background/40 px-5 py-3 backdrop-blur-md scrollbar-none md:hidden",children:[e.jsx(r,
+to:"/products",className:"text-xs font-semibold tracking-tight text-foreground/75 transition-colors hover:text-primary",children:d.products
+),e.jsx("a",
+href:p.amazonStoreUrl,target:"_blank",rel:"noopener noreferrer",className:"text-xs font-semibold tracking-tight text-foreground/75 transition-colors hover:text-primary",children:"Amazon"
+),e.jsx("a",
+href:"/help-center#software-center",className:"text-xs font-semibold tracking-tight text-foreground/75 transition-colors hover:text-primary",children:t==="ja"?"ソフトウェア":"Software"
+),e.jsx(r,
+to:"/reviews",className:"text-xs font-semibold text-foreground/75 hover:text-primary",children:a.nav.reviews
+),e.jsx(r,
+to:"/help-center",className:"text-xs font-semibold text-foreground/75 hover:text-primary",children:a.nav.help
+),e.jsx(r,
+to:"/about",className:"text-xs font-semibold text-foreground/75 hover:text-primary",children:a.nav.about
+),e.jsx(r,
+to:"/contact",className:"text-xs font-semibold text-foreground/75 hover:text-primary",children:w
+)]
+),y&&e.jsxs("div",
+className:"space-y-3 border-t border-border/40 px-5 py-4 md:hidden",children:[e.jsx(r,
+to:"/products",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:d.products
+),e.jsx("a",
+href:p.amazonStoreUrl,target:"_blank",rel:"noopener noreferrer",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:"Amazon"
+),e.jsx("a",
+href:"/help-center#software-center",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:t==="ja"?"ソフトウェア":"Software"
+),e.jsx(r,
+to:"/reviews",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:a.nav.reviews
+),e.jsx(r,
+to:"/help-center",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:a.nav.help
+),e.jsx(r,
+to:"/about",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:a.nav.about
+),e.jsx(r,
+to:"/contact",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:w
+),_&&c?e.jsxs("div",
+className:"space-y-2 rounded-2xl border border-border bg-muted/30 p-3",children:[e.jsxs("div",
+className:"flex items-center gap-3",children:[e.jsx("span",
+className:"flex h-9 w-9 items-center justify-center rounded-full bg-primary text-xs font-bold text-primary-foreground",children:A
+),e.jsxs("div",
+className:"min-w-0",children:[e.jsx("p",
+className:"truncate text-sm font-semibold",children:c.name
+),e.jsx("p",
+className:"truncate text-xs text-muted-foreground",children:c.email
+)]
+)]
+),e.jsx(r,
+to:"/account",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:t==="ja"?"マイアカウント":"Personal Center"
+),e.jsx("a",
+href:"/account?tab=orders",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:t==="ja"?"注文履歴":"My Orders"
+),e.jsx("button",
+type:"button",onClick:E,className:"block text-sm text-foreground/80",children:t==="ja"?"ログアウト":"Sign out"
+)]
+):e.jsx(r,
+to:"/login",onClick:()=>i(!1),className:"block text-sm text-foreground/80",children:a.nav.login
+),e.jsxs("div",
+className:"flex items-center gap-2 pt-2",children:[e.jsx("button",
+onClick:()=>m("en"),className:`px-3 py-1 text-xs rounded-full border $
+t==="en"?"bg-primary text-primary-foreground border-primary":"border-border"
+`,children:"EN"
+),e.jsx("button",
+onClick:()=>m("ja"),className:`px-3 py-1 text-xs rounded-full border $
+t==="ja"?"bg-primary text-primary-foreground border-primary":"border-border"
+`,children:"日本語"
+)]
+)]
+)]
+)
+
+function Ce()
+const
+lang:a
+=S(),t=a==="ja"?[
+title:"製品を探す",links:[
+label:"すべての製品",to:"/products"
+,
+label:"A6 ポータブルモニター",to:"/products/a6"
+,
+label:"S10 PRO エクステンダー",to:"/products/s10-pro"
+,
+label:"34インチ曲面ウルトラワイド",to:"/products"
+]
+,
+title:"サポート",links:[
+label:"お問い合わせ",to:"/contact"
+,
+label:"ヘルプセンター",to:"/help-center"
+,
+label:"よくあるご質問",to:"/reviews"
+,
+label:"配送について",to:"/checkout"
+,
+label:"保証について",to:"/products"
+,
+label:"返品・返金",to:"/products"
+]
+,
+title:"会社情報",links:[
+label:"Anykingについて",to:"/about"
+,
+label:"プライバシーポリシー",to:"/"
+,
+label:"利用規約",to:"/"
+]
+]:[
+title:"SHOP THE STORE",links:[
+label:"ALL PRODUCTS",to:"/products"
+,
+label:"A6 PORTABLE MONITOR",to:"/products/a6"
+,
+label:"S10 PRO EXTENDER",to:"/products/s10-pro"
+,
+label:'34" CURVED ULTRAWIDE EXTENDER',to:"/products"
+]
+,
+title:"SUPPORT",links:[
+label:"CONTACT US",to:"/contact"
+,
+label:"HELP CENTER",to:"/help-center"
+,
+label:"FAQS",to:"/reviews"
+,
+label:"SHIPPING",to:"/checkout"
+,
+label:"WARRANTY",to:"/products"
+,
+label:"RETURN & REFUND",to:"/products"
+]
+,
+title:"INFORMATION",links:[
+label:"ABOUT US",to:"/about"
+,
+label:"PRIVACY POLICY",to:"/"
+,
+label:"TERMS OF SERVICE",to:"/"
+]
+],m=[
+name:"American Express",src:"/payment-logos/american-express.png"
+,
+name:"Mastercard",src:"/payment-logos/mastercard.webp"
+,
+name:"PayPal",src:"/payment-logos/paypal.png"
+,
+name:"Visa",src:"/payment-logos/visa.png"
+],p=()=>
+window.scrollTo(
+top:0,behavior:"smooth"
+)
+
+return e.jsx("footer",
+className:"mt-24 border-t border-slate-200 bg-slate-50 text-slate-800",children:e.jsxs("div",
+className:"mx-auto max-w-7xl px-5 py-16 lg:px-10",children:[e.jsxs("div",
+className:"grid gap-12 lg:grid-cols-[1.1fr_1fr_1fr_1fr]",children:[t.map(l=>e.jsxs("div",
+className:"space-y-6",children:[e.jsx("h3",
+className:"text-sm font-semibold tracking-[0.18em] text-slate-900",children:l.title
+),e.jsx("ul",
+className:"space-y-4",children:l.links.map(h=>e.jsx("li",
+children:e.jsx(r,
+to:h.to,className:"text-[11px] font-medium tracking-[0.24em] text-slate-500 transition hover:text-sky-600",children:h.label
+)
+,h.label))
+)]
+,l.title)),e.jsxs("div",
+className:"space-y-8",children:[e.jsxs("div",
+className:"space-y-6",children:[e.jsx("h3",
+className:"text-sm font-semibold tracking-[0.18em] text-slate-900",children:a==="ja"?"お問い合わせ":"GET IN TOUCH"
+),e.jsxs("div",
+className:"space-y-4",children:[e.jsxs("a",
+href:"mailto:service@anykingscreen.com",className:"inline-flex items-center gap-2 text-sm font-medium text-slate-700 transition hover:text-sky-600",children:[e.jsx(ne,
+className:"h-5 w-5"
+),e.jsx("span",
+children:"service@anykingscreen.com"
+)]
+),e.jsxs("a",
+href:"tel:+18886885025",className:"inline-flex items-center gap-2 text-sm font-medium text-slate-700 transition hover:text-sky-600",children:[e.jsx(pe,
+className:"h-5 w-5"
+),e.jsx("span",
+children:"+1 (888) 688-5025"
+)]
+)]
+)]
+),e.jsxs("div",
+className:"space-y-5",children:[e.jsx("h3",
+className:"text-sm font-semibold tracking-[0.18em] text-slate-900",children:a==="ja"?"公式SNS":"FOLLOW US"
+),e.jsxs("div",
+className:"flex items-center gap-4 text-slate-600",children:[e.jsx("a",
+href:"#",className:"transition hover:text-sky-600","aria-label":"Facebook",children:e.jsx(J,
+className:"h-5 w-5"
+)
+),e.jsx("a",
+href:"#",className:"transition hover:text-sky-600","aria-label":"TikTok",children:e.jsx(xe,
+className:"h-5 w-5"
+)
+),e.jsx("a",
+href:"#",className:"transition hover:text-sky-600","aria-label":"YouTube",children:e.jsx(ye,
+className:"h-5 w-5"
+)
+)]
+)]
+)]
+)]
+),e.jsxs("div",
+className:"mt-16",children:[e.jsx("h3",
+className:"text-sm font-semibold text-slate-900",children:a==="ja"?"ご利用可能な決済方法":"We accept"
+),e.jsx("div",
+className:"mt-6 grid gap-4 sm:grid-cols-2 xl:grid-cols-4",children:m.map(l=>e.jsx("div",
+className:"flex h-16 items-center justify-center rounded-lg border border-slate-200 bg-white px-4 shadow-sm",children:e.jsx("img",
+src:l.src,alt:l.name,className:"max-h-8 w-auto object-contain"
+)
+,l.name))
+)]
+),e.jsxs("div",
+className:"relative mt-14 border-t border-slate-200 pt-8",children:[e.jsxs("p",
+className:"text-center text-xs text-slate-500",children:["© ",new Date().getFullYear()," Anyking"]
+),e.jsx("button",
+onClick:p,className:"absolute right-0 top-4 rounded-md bg-slate-200 px-3 py-3 text-slate-500 shadow-sm transition hover:bg-slate-300 hover:text-slate-700","aria-label":a==="ja"?"ページ上部へ戻る":"Back to top",children:e.jsx(K,
+className:"h-5 w-5"
+)
+)]
+)]
+)
+)
+
+function Me(
+children:a
+)
+return e.jsxs("div",
+className:"min-h-screen flex flex-col",children:[e.jsx(ve,
+
+),e.jsx(we,
+
+),e.jsx("main",
+className:"flex-1",children:a
+),e.jsx(Ce,
+
+)]
+)
+export
+C as A,Y as C,ee as L,ne as M,pe as P,Me as S,je as U,re as a,se as b,$ as c,ue as d,O as e
+
+

@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --brand-core: #25282B;        /* Graphite 25-35% */
+    --brand-space: #F6F4EF;       /* Warm White 50-60% */
+    --hardware-silver: #C8CBCB;   /* Silver 5-10% */
+    --functional-gray: #5E6265;   /* Space Gray 5-8% */
+    --starlight-accent: #E6DDCE;  /* Starlight 3-8% */
+    
+    --radius: 1rem;
+    --background: #F6F4EF;
+    --foreground: #25282B;
+    --card: #FFFFFF;
+    --card-foreground: #25282B;
+    --border: #E5E2DA;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #F6F4EF;
+    color: #25282B;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.01em;
+  }
+}
+
+/* Custom VI Utility Colors & Badges */
+.bg-brand-space { background-color: #F6F4EF; }
+.bg-brand-core { background-color: #25282B; }
+.text-brand-core { color: #25282B; }
+.text-functional-gray { color: #5E6265; }
+.border-hardware-silver { border-color: #C8CBCB; }
+.bg-starlight { background-color: #E6DDCE; }
+.text-starlight { color: #E6DDCE; }
+.border-starlight { border-color: #E6DDCE; }
+
+/* Subtle high-end shadows */
+.shadow-vi-subtle {
+  box-shadow: 0 2px 12px -2px rgba(37, 40, 43, 0.05), 0 1px 4px -1px rgba(37, 40, 43, 0.03);
+}
+
+.shadow-vi-card {
+  box-shadow: 0 4px 20px -3px rgba(37, 40, 43, 0.06), 0 2px 6px -2px rgba(37, 40, 43, 0.04);
+}
+
+.shadow-vi-elevated {
+  box-shadow: 0 12px 32px -4px rgba(37, 40, 43, 0.10), 0 4px 12px -2px rgba(37, 40, 43, 0.05);
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 25s linear infinite;
+}
+
+.animate-marquee:hover {
+  animation-play-state: paused;
+}

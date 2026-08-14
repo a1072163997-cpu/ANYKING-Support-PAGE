@@ -1,0 +1,6 @@
+{
+  "name": "Laptop Compatibility Checker",
+  "description": "Check laptop compatibility for Anyking dual-screen portable monitor extenders (S10 Pro and P7) with model search, cable guides, brand port references, and decade interface matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
